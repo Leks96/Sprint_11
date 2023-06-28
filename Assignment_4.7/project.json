@@ -1,0 +1,22 @@
+{
+"obj":{
+"fullname" : "Ben Smith",
+"age" : "32",
+"height" : "180cm",
+"position" : "Senior Web Developer",
+"location" : "London"},
+
+"obj2":{
+"fullname" : "Jane Doe",
+"age" : "35",
+"height" : "170cm",
+"position" : "Project Lead",
+"location" : "London"},
+
+"obj3":{
+"fullname" : "Rob Smith",
+"age" : "26",
+"height" : "186cm",
+"position" : "Web Developer",
+"location" : "New York"}
+}
